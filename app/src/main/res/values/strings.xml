@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facebook</string>
+        <string name="lenguaje">English * Español * Más...</string>
+        <string name="signin">Sign In</string>
+        <string name="login">Login</string>
+        <string name="olvidado"><u>¿Has olvidado la contraseña?</u></string>
+
+</resources>
